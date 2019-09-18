@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///crawler
+    username: root
+    password: root
+    type: com.zaxxer.hikari.HikariDataSource
