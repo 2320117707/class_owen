@@ -18,6 +18,4 @@ public class JobInfo {
     @Column(name = "salary_min")  //列表和属性名的对应
     private Integer  salary;
     private String  url;
-	private String lisi;
-	private String zhangsanct;
 }
