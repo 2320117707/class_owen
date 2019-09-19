@@ -19,4 +19,5 @@ public class JobInfo {
     private Integer  salary;
     private String  url;
 	private String lisi;
+	private String lisict;
 }
